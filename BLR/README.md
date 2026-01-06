@@ -34,7 +34,7 @@
 
 - AGN5: 用来生成发射线信息，初始条件和AGN1_1一样, `top10_lines_each_bin.csv`: 各温度段最强的十条发射线
 
-scurve: 研究热不稳定性
+- scurve: 研究热不稳定性
 
-BLR_draw.ipynb: 用来画图的代码
+- `BLR_draw.ipynb`: 用来画图的代码
 
