@@ -1,0 +1,5 @@
+不同文件夹对应不同的运行配置和结果，每个文件夹包含cloudy的输入文件HII.in和相应的输出文件。
+HII文件夹为对照组，其他文件夹的输入文件配置为在此基础上进行改动，如HII_grains为包含尘埃，HII_T3e4将辐射源的黑体温度改为3e4K
+
+operating cloudy.py为运行cloudy的代码
+plot cloudy.ipynb为根据cloudy输出结果画图的代码
