@@ -1,5 +1,7 @@
 # final-projects-2025-autumn-cloudy-2025-autumn
-`./BLR/`: 对AGN BLR区域不同条件下冷却函数研究的相关文件
+`./BLR/`: 对AGN 宽线区(BLR)不同条件下冷却函数研究的相关文件(by 李帅毅)
+
+`./HII/`: 对电离氢(HII)区不同条件下冷却函数研究的相关文件(by 杨景硕)
 
 `ISM_Cloudy.pptx`: 报告使用的PPT
 
